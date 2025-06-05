@@ -29,11 +29,23 @@ img {
   cursor: pointer;
   border: none;
   width: 8%;
+  border-radius: 5%;
 }
 .vege-list figcaption{
   margin-left: 12%;
+  color: white;
 }
 .fruit-list figcaption{
   margin-left: 12%;
+  color: white;
 }
+ #addVegeButton{
+   padding: 15px;
+  background-color: blueviolet;
+  color: white;
+  cursor: pointer;
+  border: none;
+  width: 8%;
+  border-radius: 5%;
+ }
 
