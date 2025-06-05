@@ -1,6 +1,7 @@
 const background = document.getElementById('body')
 
 background.style.backgroundColor = "silver";
+background.style.alignContent = 'center'
 
 const title = document.getElementById("title");
 

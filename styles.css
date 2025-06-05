@@ -28,6 +28,12 @@ img {
   color: white;
   cursor: pointer;
   border: none;
+  width: 8%;
 }
-
+.vege-list figcaption{
+  margin-left: 12%;
+}
+.fruit-list figcaption{
+  margin-left: 12%;
+}
 
