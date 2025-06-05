@@ -68,7 +68,7 @@ vegesList.appendChild(newVegetable)
 
 const addFruitButton = document.getElementById('addFruitButton');
 addFruitButton.onclick = ()=>{
-  vegesList.style.backgroundColor = '#5ACD32'
+  fruitsList.style.backgroundColor = '#5ACD32'
 }
 
 

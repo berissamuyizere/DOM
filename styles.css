@@ -22,4 +22,12 @@ img {
   margin-top: 5px;
 }
 
+#addFruitButton{
+  padding: 15px;
+  background-color: blueviolet;
+  color: white;
+  cursor: pointer;
+  border: none;
+}
+
 
